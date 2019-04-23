@@ -32,7 +32,23 @@
   .four{
     height: 248px;
     width: 238px;
+    
+  }  
+
+  #e{
     background-color: lightgreen;
+  }  
+
+  #f{
+    background-color: red;
+  }  
+
+  #g{
+    background-color: black;
+  }  
+
+  #h{
+    background-color: navy;
   }  
   
   .i{
@@ -80,22 +96,22 @@
   .four{
     height: 248px;
     width: 188px;
+    
+  }  
+
+  #e{
     background-color: aquamarine;
   }  
 
-  .four:nth-child(1){
-    background-color: aquamarine;
-  }  
-
-  .four:nth-child(2){
+  #f{
     background-color: purple;
   }  
 
-  .four:nth-child(3){
+  #g{
     background-color: saddlebrown;
   }  
 
-  .four:nth-child(4){
+  #h{
     background-color: peru;
   }  
   
