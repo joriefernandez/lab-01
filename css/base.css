@@ -8,6 +8,7 @@ div{
   border: 1px solid gray;
   margin: 0px auto;
   float: left;
+  width: 960px;
 }
 
 p{

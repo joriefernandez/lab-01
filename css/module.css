@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 480px) and (max-width: 767px){
+@media screen and (max-width: 767px){
   .a{
     height: 75px;
     width: 480px;
@@ -42,7 +42,7 @@
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 960px){
+@media screen and (min-width: 768px){
   body {
     
     width: 960px;
@@ -80,7 +80,7 @@
   .four{
     height: 248px;
     width: 188px;
-    
+    background-color: aquamarine;
   }  
 
   .four:nth-child(1){
