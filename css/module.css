@@ -80,13 +80,29 @@
   .four{
     height: 248px;
     width: 188px;
+    
+  }  
+
+  .four:nth-child(1){
     background-color: aquamarine;
+  }  
+
+  .four:nth-child(2){
+    background-color: purple;
+  }  
+
+  .four:nth-child(3){
+    background-color: saddlebrown;
+  }  
+
+  .four:nth-child(4){
+    background-color: peru;
   }  
   
   .i{
     height: 148px;
     width: 758px; 
-    background-color: lightseagreen
+    background-color: lightseagreen;
   }
   
 }
