@@ -1,0 +1,89 @@
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+  .a{
+    height: 75px;
+    width: 480px;
+   
+  }
+  
+  .b{
+    height: 150px;
+    width: 480px;
+    
+  }
+  
+  .c{
+    height: 125px;
+    width: 480px;
+    
+  }
+  
+  .d{
+    height: 125px;
+    width: 480px;
+    
+  }
+  
+  #four-container{
+    width: 480px;
+  }
+  
+  
+  .four{
+    height: 248px;
+    width: 238px;
+  }  
+  
+  .i{
+    height: 80px;
+    width: 480px; 
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 960px){
+  body {
+    
+    width: 960px;
+  }
+
+  .a{
+    height: 88px;
+    width: 958px;
+   
+  }
+  
+  .b{
+    height: 598px;
+    width: 198px;
+    
+  }
+  
+  .c{
+    height: 198px;
+    width: 378px;
+    
+  }
+  
+  .d{
+    height: 198px;
+    width: 378px;
+    
+  }
+  
+  #four-container{
+    width: 760px;
+  }
+  
+  
+  .four{
+    height: 248px;
+    width: 188px;
+  }  
+  
+  .i{
+    height: 148px;
+    width: 758px; 
+  }
+  
+}
+
