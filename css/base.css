@@ -1,0 +1,34 @@
+@import 'reset.css';
+
+body{
+  background:linen;
+}
+
+div{
+  border: 1px solid gray;
+  margin: 0px auto;
+  float: left;
+  width: 960px;
+}
+
+p{
+  text-align: center;
+  margin: 0px auto;
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+  body {
+    background-color:teal;
+    width: 480px;
+  }
+  
+}
+
+@media screen and (min-width: 768px) and (max-width: 960px){
+  body {
+    background-color: lightskyblue ;
+    width: 960px;
+  }
+  
+}
+
